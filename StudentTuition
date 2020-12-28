@@ -1,0 +1,9 @@
+public class StudentTuition {
+
+    public static void main (String [] args) {
+
+        Account paul = new account ("Paul Turner", "A000001");
+        paul.showMenu();
+    }
+
+}
