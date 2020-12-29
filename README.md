@@ -1,2 +1,2 @@
-# Student-Tuition-
+# Student-Tuition
 a student tuition calculator using Java
