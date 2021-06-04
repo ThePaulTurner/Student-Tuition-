@@ -1,0 +1,16 @@
+public class Constant {
+    public static void  main {
+        //Alabama Football History
+        final int YEARS = ;
+        final int COACHES = ;
+        final int WINS = ;
+        final int BOWLGAMES = ;
+
+        //
+
+    }
+
+
+
+
+}
