@@ -1,2 +1,1 @@
-# Student-Tuition
-a student tuition calculator using Java
+Creating a simple collection of scripts from my Java learnings
