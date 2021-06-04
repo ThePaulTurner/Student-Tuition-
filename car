@@ -1,0 +1,27 @@
+
+class Car {
+    private String manufacturer;
+    private String color;
+    private String bodyType;
+    private String nation;
+
+    public car(){
+        maker = "Porsche";
+        color = "Silver";
+        bodyType = "Coupe";
+    }
+
+    private String acclerate ()
+    {
+        String motion = "Accelerating ...";
+        return motion;
+
+    }
+
+    public void setCar
+
+
+
+
+
+}
