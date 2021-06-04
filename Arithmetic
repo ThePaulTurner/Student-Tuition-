@@ -1,0 +1,22 @@
+class Arithmetic {
+    public static void main (String [] args) {
+        int num = 300;
+        int sum = 0;
+        int factor = 60;
+
+        sum = num + factor;
+        System.out.println("Addition sum: " + sum);
+
+        sum = num - factor;
+        System.out.println("Subtraction sum: " + sum );
+
+        sum = num * factor;
+        System.out.println("Multiplication sum: " + sum);
+
+        sum = num/factor;
+        System.out.println("Division sum: " + sum);
+
+
+    }
+
+}
